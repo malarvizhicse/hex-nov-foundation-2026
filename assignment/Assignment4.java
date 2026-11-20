@@ -7,7 +7,7 @@ class Assignment4 {
         Scanner sc = new Scanner(System.in);
         Stack<String> learners = new Stack<>();
 
-        while (true) {
+      while (true) {
             System.out.println("\n1. Enroll learner");
             System.out.println("2. Undo last enrollment");
             System.out.println("3. Show last enrollment");
